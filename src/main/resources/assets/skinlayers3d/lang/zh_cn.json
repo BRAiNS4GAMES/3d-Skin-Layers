@@ -42,5 +42,5 @@
   "text.skinlayers.irisCompatibilityMode.enable": "Iris 兼容模式",
   "text.skinlayers.irisCompatibilityMode.enable.tooltip": "用另一种方法渲染皮肤层，以修复与 Iris 共同使用时出现的奇怪阴影/色彩。若一切正常，请勿轻易启用此选项。启用后将破坏皮肤层在角落的连接。",
   "text.skinlayers.applySodiumWorkaround.enable": "Sodium 变通方案",
-  "text.skinlayers.applySodiumWorkaround.enable.tooltip": "针对某些版本中与 Sodium 共同使用时出现立方体侧面渲染翻转问题(?)的解决方法。仅当与 Sodium 共同使用时，发现皮肤层侧面缺失等问题时，才启用此选项。",
+  "text.skinlayers.applySodiumWorkaround.enable.tooltip": "针对某些版本中与 Sodium 共同使用时出现立方体侧面渲染翻转问题(?)的解决方法。仅当与 Sodium 共同使用时，发现皮肤层侧面缺失等问题时，才启用此选项。"
 }
